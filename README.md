@@ -1,6 +1,6 @@
 # MyXL CLI Client
 
-# How to run with TERMUX
+# SUPPORT WINDOWS & TERMUX
 1. Update & Upgrade Termux
 ```
 apt update && apt full-upgrade
